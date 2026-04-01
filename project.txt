@@ -1,3 +1,4 @@
 Proyecto (Juego) general:
 1. Creacion de graficos del juego
-2. 
+2. Movimiento de jugador
+3. Creacion de dialogos
